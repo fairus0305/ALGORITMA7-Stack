@@ -75,7 +75,7 @@ class stack
 
 int main()
 {
-    Stack stack;
+    stack stack;
 
     int choice = 0;
     int value;
